@@ -1,5 +1,5 @@
-#include "5-tic.hpp"
 #include "5-tac.hpp"
+#include "5-tic.hpp"
 
 int main()
 {

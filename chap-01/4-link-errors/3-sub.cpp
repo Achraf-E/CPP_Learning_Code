@@ -1,6 +1,6 @@
 #include "3-sub.hpp"
 
-float sub(float a, float b)
+float sub(int a, int b)
 {
     return a - b;
 }

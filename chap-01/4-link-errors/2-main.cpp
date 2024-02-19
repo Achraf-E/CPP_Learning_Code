@@ -1,4 +1,4 @@
-#include "2-add.hpp"
+#include "2-add.cpp"
 
 int main()
 {
